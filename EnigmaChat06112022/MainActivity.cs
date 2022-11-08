@@ -30,6 +30,7 @@ namespace EnigmaChat06112022
         private void Btn_Click(object sender, System.EventArgs e)
         {
             d.Show();
+
         }
     }
 }
