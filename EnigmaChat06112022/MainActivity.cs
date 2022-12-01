@@ -13,7 +13,7 @@ namespace EnigmaChat06112022
         {
             base.OnCreate(savedInstanceState);
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
-            SetContentView(Resource.Layout.activity_main);
+            SetContentView(Resource.Layout.test);
 
         }
 
